@@ -10,7 +10,8 @@ problems that I might face in the near future. Looking forward to any opportunit
 <p align="left">
   <a href="https://www.linkedin.com/in/michael-u-obi">
   <img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <img alt="portfolio page" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-black?style=for-the-badge&logo=Person&logoColor=white"/>
+  <a href="https://michael-obi.vercel.app">
+  <img alt="portfolio page" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-black?style=for-the-badge&logo=Person&logoColor=white"/></a>
 </p>
 
 # Languages & Tools
