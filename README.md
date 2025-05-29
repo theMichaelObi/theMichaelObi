@@ -30,11 +30,3 @@ problems that I might face in the near future. Looking forward to any opportunit
 <br/>
 <br/>
       
-# GitHub Stats
-
-<p align="left">
-<a href="https://github.com/theMichaelObi?tab=followers">
-  <img alt="followers" title="Github Followers" src="https://custom-icon-badges.demolab.com/github/followers/theMichaelObi?color=black&labelColor=black&style=for-the-badge&logo=GitHub&label=Followers&logoColor=white"/></a>
-</p>
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=theMichaelObi&show_icons=true&theme=apprentice)
